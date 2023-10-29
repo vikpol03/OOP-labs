@@ -2,6 +2,9 @@
 
 package org.example;
 
+/* TASK #1 */
+
+
 import java.util.Scanner;
 
 public class Main {
